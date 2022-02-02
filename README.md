@@ -1,1 +1,1 @@
-- [My Digital Bussiness Card](https://pankajsingh.website/Bussiness-Card/)
+- [My Digital Business Card](https://pankajsingh.website/Bussiness-Card/)
