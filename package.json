@@ -2,7 +2,7 @@
   "name": "solo-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pankajsingh.website/Bussiness-Card",
+  "homepage": "https://pankajsingh.website/Business-Card",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.1",
