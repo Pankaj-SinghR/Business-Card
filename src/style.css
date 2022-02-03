@@ -24,6 +24,12 @@ body {
   height: 868px;
 }
 
+.avatar {
+  margin: 0 auto;
+  width: 317px;
+  height: 317px;
+  border-radius: 10px 10px 2px 2px;
+}
 .header > h1 {
   text-align: center;
   font-family: inter;
@@ -38,11 +44,11 @@ body {
   color: #f3bf99;
   font-size: 14px;
 }
-.header > a {
+.portfoliolink {
   display: block;
   font-size: 10px;
   text-align: center;
-  color: white;
+  color: #f5f5f5;
   text-decoration: none;
   padding: 8px 15px 0 0;
   margin: 0;
@@ -52,18 +58,23 @@ body {
   padding: 15px;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
-.buttons > button {
+.buttons > a {
   height: 35px;
   width: 115px;
   border-radius: 6px;
-  border: none;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .buttons__email {
   margin-right: 17px;
   background-color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .buttons__linkedin {
@@ -71,7 +82,7 @@ body {
   color: #fff;
 }
 
-.buttons > button > i {
+.buttons > a > i {
   margin-right: 8px;
 }
 

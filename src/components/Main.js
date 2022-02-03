@@ -10,7 +10,7 @@ export default function Main(){
             <div className="interest">
                 <h1 className="interest__h1">Interests</h1>
                 <div className="interest__para">
-                    Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic
+                    Food expert. Music lover. Reader. Internet fanatic. Bacon buff. Travel geek. Coffee fanatic. Blogging
                 </div>
             </div> 
         </div>

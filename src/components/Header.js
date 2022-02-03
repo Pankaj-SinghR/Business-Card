@@ -1,16 +1,16 @@
 import React from "react"
-import avatar from "../images/avatar.png"
+import avatar from "../images/avatar.jpg"
 
 export default function Header(){
     return (
         <div className="header">
             <img src={avatar} alt="" className="avatar"/>
-            <h1>Laura Smith</h1>
+            <h1>Pankaj Singh</h1>
             <span>Frontend Developer</span>
-            <a href="https://laurasmith.website">laurasmith.website</a>
+            <a href="https://pankajsingh.website" className="portfoliolink">pankajsingh.website</a>
             <div className="buttons">
-                <button className="buttons__email"><i class="fas fa-envelope"></i>Email</button>
-                <button className="buttons__linkedin"><i class="fab fa-linkedin"></i>LinkedIn</button>
+                <a href="mailto:pankajsingh132000@gmail.com" target="_blank" className="buttons__email" ><i class="fas fa-envelope"></i>Email</a>
+                <a href="https://www.linkedin.com/in/pankaj-singh-r/" target="_blank" className="buttons__linkedin"><i class="fab fa-linkedin"></i>LinkedIn</a>
             </div>
         </div>
     )
