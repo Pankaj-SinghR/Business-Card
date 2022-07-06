@@ -1,1 +1,1 @@
-- [My Bussiness Card](https://pankajsingh.website/Business-Card/)
+- [My Bussiness Card](https://pankaj-singhr.github.io/Business-Card/)
